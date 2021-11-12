@@ -51,7 +51,7 @@ print ('selesai')
 
 ## Latihan2.py
 
-![gambar](jj/04.jgp)
+![gambar](jj/04.jpg)
 
 ![gambar](jj/05.jpg)
 
@@ -92,7 +92,7 @@ print('Bilangan terbesarnya adalah',max)
 
 ![gambar](jj/06.jpg)
 
-![gambar](jj/08,jpg)
+![gambar](jj/008.jpg)
 
 ![gambar](jj/07.jpg)
 
