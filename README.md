@@ -2,18 +2,6 @@
 
 ## latihan1.py
 
-SOAL
-
-1.Tampilkan n bilangan acak yang lebih kecil dari 0.5
-
-2.Nilai n pada saat runtime
-
-3.Anda bisa menggunakan while atau for untuk menyelesaikannya
-
-4.Gunakan fungsi random () yang dapat di'import terlebih dahulu
-
-5.Kita mulai cara membuat program diatas 👆
-
 FLOWCHART LATIHAN1.PY
 
 ![gambar](jj/01.jpg)
