@@ -1,4 +1,4 @@
-rint(" latihan1 ")
+print(" latihan1 ")
 
 a = input("Masukkan nilai N: ")
 
