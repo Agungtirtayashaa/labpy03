@@ -1,7 +1,9 @@
 # labpy03
 
 ## latihan1.py
+
 SOAL
+
 1.Tampilkan n bilangan acak yang lebih kecil dari 0.5
 
 2.Nilai n pada saat runtime
@@ -92,9 +94,9 @@ print('Bilangan terbesarnya adalah',max)
 
 ![gambar](jj/06.jpg)
 
-![gambar](jj/008.jpg)
+![gambar](jj/11.jpg)
 
-![gambar](jj/07.jpg)
+![gambar](jj/12.jpg)
 
 Berikut penjelasan dari Program1.py
 
