@@ -6,9 +6,9 @@ FLOWCHART LATIHAN1.PY
 
 ![gambar](jj/01.jpg)
 
-![gambar](jj/03.jpg)
+![gambar](jj/200.jpg)
 
-![gambar](jj/02.jpg)
+![gambar](jj/100.jpg)
 
 Berikut penjelasan dari program diatas
 print ('Masukkan nilai N: 5')
@@ -43,9 +43,9 @@ print ('selesai')
 
 ![gambar](jj/04.jpg)
 
-![gambar](jj/200.jpg)
+![gambar](jj/05.jpg)
 
-![gambar](jj/100.jpg)
+![gambar](jj/13.jpg)
 
 Berikut penjelas Latihan2.py
 max=0
