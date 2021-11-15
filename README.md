@@ -43,9 +43,9 @@ print ('selesai')
 
 ![gambar](jj/04.jpg)
 
-![gambar](jj/05.jpg)
+![gambar](jj/200.jpg)
 
-![gambar](jj/13.jpg)
+![gambar](jj/100.jpg)
 
 Berikut penjelas Latihan2.py
 max=0
